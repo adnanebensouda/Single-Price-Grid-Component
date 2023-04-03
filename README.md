@@ -22,21 +22,33 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+html {
+    box-sizing: border-box;
+  }
+
+  h2, h4, p {
+    margin: 0;
+  }
+
+  body {
+    padding: 20px;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
 ```
 
 ### Useful resources
 
 - [Flex-Sheatsheet](https://yoksel.github.io/flex-cheatsheet/) - This is raelly usefull flex-cheatsheet helped me a lot.
+- [box-shadow-css-generator](https://cssgenerator.org/box-shadow-css-generator.html) - this is for box shadow css generator
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Single-Price-Grid-Component.com](https://adnanebensouda.github.io/Single-Price-Grid-Component/)
+- Frontend Mentor - [@adnanebensouda](https://www.frontendmentor.io/profile/adnanebensouda)
+- Twitter - [@yAdnaneDev](https://www.twitter.com/AdnaneDev)
 
 
 
